@@ -1,6 +1,6 @@
 # HacktoberFest2020
 
-Nyobain HacktoberFest
+OmahTI goes to HacktoberFest
 
 ## Tutorial Pull Request
 
