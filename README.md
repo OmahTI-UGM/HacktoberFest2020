@@ -1,5 +1,4 @@
 # HacktoberFest2020
-
 OmahTI goes to HacktoberFest
 
 ## Tutorial HacktoberFest dan Pull Request
@@ -13,7 +12,7 @@ OmahTI goes to HacktoberFest
 7. git push origin
 8. Balik ke repo kalian, akan ada tampilan kira-kira seperti ini, berisi `This branch is 1 commit ahead`:
 
-![gambar]('./Images/Pull request SS.png')
+<img src='./Images/Pull request SS.png' />
 
 9. klik Pull Request diatas
 10. Tunggu sampai PR kalian di acc
