@@ -1,0 +1,19 @@
+{
+    "data" : [
+        {
+            "title": "Leclerc Antusias Sambut F1 GP Singapura 2019",
+            "label": "non-clickbait",
+            "label_score": 0
+        },
+        {
+            "title": "Kenaikan Cukai Rokok, Efektif Turunkan Jumlah Perokok di Indonesia?",
+            "label": "clickbait",
+            "label_score": 1
+        },
+        {
+            "title": "Cara Membuat Rak Buku Sendiri, Unik dan Hemat Biaya   ",
+            "label": "clickbait",
+            "label_score": 1
+        }
+    ]
+}
