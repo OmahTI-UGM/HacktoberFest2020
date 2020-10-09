@@ -2,13 +2,13 @@
 using namespace std;
 
 int gcd(int x, int y){
-	int r;
-	while(y>0){
-		r=x%y;
-		x=y;
-		y=r;
+	
+	if(y==0) {
+		return x;
+	} else {
+		return gcd(y,x%y);
 	}
-	return x;
+	
 }
 
 int main(){
