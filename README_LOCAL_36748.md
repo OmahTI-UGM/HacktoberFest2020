@@ -1,13 +1,7 @@
 # HacktoberFest2020
-
 OmahTI goes to HacktoberFest
 
-## Tutorial HacktoberFest
-
-1. Daftar dulu [disini](https://hacktoberfest.digitalocean.com/)
-2. Buka repo ini, lalu ikuti langkah-langkah dibawah
-
-## Tutorial Pull Request
+## Tutorial HacktoberFest dan Pull Request
 
 1. Fork repo ini ke github kalian (ada di pojok kanan atas)
 2. Kalian akan dikirim ke laman github kalian, misal https://github.com/{namarepokamu}/HacktoberFest2020/

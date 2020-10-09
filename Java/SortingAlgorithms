@@ -1,0 +1,16 @@
+/**
+ * SortingAlgorithms
+ */
+public class SortingAlgorithms {
+
+    public static void main(String[] args) {
+        // main is the name of my method
+        /*      (.) = it is an iteration
+        1. Sorting
+        2. Swaping  -> Small to Big
+        */
+        int a[] = {2,1,5,8,-5,7};
+        int n = a.length;
+        
+    }
+}
