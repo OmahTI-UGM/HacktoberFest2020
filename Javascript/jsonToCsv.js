@@ -16,5 +16,10 @@ const promise = async () => await fs.promises.readFile('./data.json');
         csv = csv.join('\r\n');
 
         console.log(csv);
+
+        fs.writeFile('results.csv', csv, (error) => {
+            if (error) throw error;
+            console.log('File created');
+        })
     }
 )()
